@@ -6,5 +6,6 @@ This repository serves primarily as a portal to resources developed by communiti
 ## Network members
 * Met Office
 * NOAA
+* NIWA
 
 
