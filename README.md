@@ -8,6 +8,6 @@ This repository serves primarily as a portal to resources developed by communiti
 * [NOAA](https://www.noaa.gov/)
 * [NIWA](https://niwa.co.nz/)
 * [University of Bristol](https://www.bristol.ac.uk/) 
-  * Jean Golding Institute](https://www.bristol.ac.uk/golding/)
+  * [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
 
 
