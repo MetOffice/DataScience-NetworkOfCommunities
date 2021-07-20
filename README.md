@@ -4,8 +4,10 @@ This repository serves primarily as a portal to resources developed by communiti
 [Resource Portal](https://github.com/MetOffice/DataScience-NetworkOfCommunities/wiki/Data-Science-Network-Of-Communities-Resource-Portal)
 
 ## Network members
-* Met Office
-* NOAA
-* NIWA
+* [Met Office](https://www.metoffice.gov.uk/)
+* [NOAA](https://www.noaa.gov/)
+* [NIWA](https://niwa.co.nz/)
+* [University of Bristol](https://www.bristol.ac.uk/) 
+  * Jean Golding Institute](https://www.bristol.ac.uk/golding/)
 
 
