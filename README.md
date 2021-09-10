@@ -9,5 +9,8 @@ This repository serves primarily as a portal to resources developed by communiti
 * [NIWA](https://niwa.co.nz/)
 * [University of Bristol](https://www.bristol.ac.uk/) 
   * [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
+* [University of Leeds](https://www.leeds.ac.uk/)
+  * [Leeds Institute of Data Analytics](https://lida.leeds.ac.uk/)
+  * [Institute of Climate and Atmospheric Science] (https://environment.leeds.ac.uk/institute-climate-atmospheric-science)
 
 
