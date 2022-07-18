@@ -7,6 +7,7 @@ This repository serves primarily as a portal to resources developed by communiti
 * [Met Office](https://www.metoffice.gov.uk/)
 * [NOAA](https://www.noaa.gov/)
 * [NIWA](https://niwa.co.nz/)
+* [PML](https://pml.ac.uk)
 * [University of Bristol](https://www.bristol.ac.uk/) 
   * [Jean Golding Institute](https://www.bristol.ac.uk/golding/)
 * [University of Leeds](https://www.leeds.ac.uk/)
